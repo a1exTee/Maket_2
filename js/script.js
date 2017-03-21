@@ -55,5 +55,16 @@ jQuery(document).ready(function($) {
         $('#preloader').fadeOut();
         $body.css('overflow', '');
     });
+
+    // Why Carousel:
+
+    //$('#carousel').featureCarousel({
+    //    largeFeatureWidth: 570,
+    //    largeFeatureHeight: 360,
+    //    smallFeatureWidth: 370,
+    //    smallFeatureHeight: 260,
+    //    topPadding: 0,
+    //    sidePadding: 0
+    //});
 });
 

@@ -42,7 +42,7 @@
       timeoutVar:           null,
       rotationsRemaining:   0,
       itemsToAnimate:       0,
-      borderWidth:			    0
+      borderWidth:			0
     };
 
     /**
